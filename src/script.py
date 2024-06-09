@@ -1,4 +1,6 @@
-import my_module
+def main():
+    pass
+
 
 if __name__ == '__main__':
-    my_module.say_hello()
+    main()
