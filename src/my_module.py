@@ -5,5 +5,9 @@ def say_hello(name='吴仙杰'):
     print(f'Hello, {name}!')
 
 
-if __name__ == '__main__':
+def main():
     print('Ran in my_module.py')
+
+
+if __name__ == '__main__':
+    main()
