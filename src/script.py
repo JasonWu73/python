@@ -1,3 +1,4 @@
 import my_module
 
-my_module.say_hello()
+if __name__ == '__main__':
+    my_module.say_hello()
